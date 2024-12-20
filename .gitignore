@@ -1,0 +1,4 @@
+.ropeproject
+poetry.lock
+secret
+src/__pycache__
